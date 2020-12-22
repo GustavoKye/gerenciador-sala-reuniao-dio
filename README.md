@@ -2,25 +2,7 @@
 
 **Este é o Front-end do projeto Gerenciador de salas de reuniões.**
 
-Ele possui o [back-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioes).
-
-
-
 Feito através do live coding da professora Kamila Santos no bootcamp Everis FullStack Developer da plataforma Digital Innovation One.
-
-
-
-Ele consome a API Gerenciador de salas de reuniões - back-end e é uma SPA escrita em Angular.
-
-**Features disponíveis:**
-
-- Criar sala de reuniao 
-- Listar todas as salas
-- Buscar uma sala pelo Id
-- Atualizar uma sala pelo Id
-- Excluir uma sala pelo id
-
-
 
 ## Como executar?
 
